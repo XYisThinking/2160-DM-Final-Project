@@ -53,6 +53,4 @@ The analysis consists of four parts:
 
 The genre network contains 18 nodes and 125 edges. Indie has the highest PageRank at 0.197 and covers over 101,000 games. Community detection identified 5 genre clusters. The Random Forest classifier achieved 59.8% accuracy for 3-tier price classification, with achievement count, language count, and mean PageRank as the top predictive features.
 
-## Author
 
-Lily | INFSCI 2595 | University of Pittsburgh | April 2026
