@@ -17,6 +17,4 @@ This project uses the following files:
 * `application_genres.csv`
 * `genres.csv`
 
-After extraction, place the files into the `data/` directory.
-
 
