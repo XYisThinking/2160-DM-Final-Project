@@ -15,8 +15,6 @@ The full dataset contains multiple files, this project uses the following three:
 | application_genres.csv | 587,515 app-genre tag pairs linking applications to genre IDs |
 | genres.csv | 154 genre entries with multi-language labels |
 
-Place all three files in a `data/` folder before running the notebook.
-
 ## Project Structure
 
 ```
