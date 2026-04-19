@@ -7,7 +7,7 @@ This project analyzes how game genres connect in the Steam ecosystem using netwo
 Steam Dataset 2025 from Kaggle:
 https://www.kaggle.com/datasets/crainbramp/steam-dataset-2025-multi-modal-gaming-analytics
 
-The full dataset contains multiple files. This project uses the following three:
+The full dataset contains multiple files, this project uses the following three:
 
 | File | Description |
 |------|-------------|
